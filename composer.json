@@ -3,7 +3,7 @@
     "description": "Exception reporter for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "exception", "reporter"],
-    "homepage": "https://github.com/laravel-admin-extensions/reporter",
+    "homepage": "https://github.com/user771908231/reporter",
     "license": "MIT",
     "authors": [
         {
